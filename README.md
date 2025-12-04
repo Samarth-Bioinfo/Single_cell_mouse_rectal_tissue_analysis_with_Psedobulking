@@ -1,4 +1,4 @@
-# Single_cell_mouse_rectal_tissue_analysis_with_Pseudobulking
+# Single_cell_mouse_rectal_tissue_analysis_with_pseudobulking
 Practice notebook for single cell mouse rectal tissue analysis with psedobulking
 # Single-cell RNA-seq of Mouse Rectal Tissue with Pseudobulk Aggregation
 
